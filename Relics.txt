@@ -1,0 +1,177 @@
+**Abilitized**
+- All Activated Ability cooldowns for all Monkeys reduced by 10%.
+
+**Air and Sea**
+- All *Monkey Buccaneer*s, *Monkey Sub*s, *Heli Pilot*s, and *Monkey Ace*s (including upgrades) cost 5% less, and have 95%s.
+
+**Alchemist Touch**
+- All attacks can pop Lead Bloons.
+
+**Bigger Bloon Sabotage**
+- All MOAB-class Bloons spawn with 85% health and move at 95% speed.
+
+**Broken Heart**
+- All attack do +1d to Regrow Bloons.
+
+**Box of Chocolates**
+- Start each game with 100 extra lives.
+
+**Box of Monkey**
+- Start each game with one free Monkey costing $400 or less
+      - Prices always based off Medium.
+      - Does not get used by free *Dart Monkeys* or *Glue Gunners* from mk.
+
+**Camo-Flogged**
+- All attacks do +3 damage to Camo Bloons.
+
+**Camo Trap**
+- Grants the use of 1 *Camo Trap* per game.
+      __Camo Trap__
+‎      - Places *radar* anywhere on the track
+            - *radar*- 0d, 500p, decamos all bloons that pass over
+                  - does not use pierce on non-camo bloons
+                  - 600p with mk
+      - Can't be used in Time Attack
+
+**Deep Heat**
+- All attacks can pop white Bloons.
+
+**Durable Shots**
+- All projectiles have +25% lifespan.
+
+**El Dorado**
+- All Monkey Money and Team Trophy rewards from game victories are increased by 25% (minimum +1).
+
+**Extra Empowered**
+- Your hero starts at level 3.
+      - Level 6 with mk
+
+**Flint Tips**
+- Sharp projectiles apply *fire* status - 1d/2.5s, fire, 5s duration
+      - Only applies on damage
+      - Applies even if mk changes damage type to not sharp
+
+**Fortifried**
+- All attacks do +1 damage to Fortified Bloons.
+
+**Glue Trap**
+- Grants the use of 2 *Glue Trap*s per game.
+      __Glue Trap__
+‎ ‎ ‎ ‎ ‎ ‎ - Places *glue* anywhere on the track
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *glue*- 0d, 300p, applies *glued* status to bloons that pass over, cannot apply to blimps
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *glued* status: bloons move at 50% speed for 30s, soaks through all layers
+			      - applies *glued* status to blimps with mk
+                        - __MOAB__s use 10p, __BFB__s & __DDT__s 20p, __ZOMG__s 50p
+                        - Blimps move at 37.5% speed
+      - Can't be used in Time Attack
+
+**Going the Distance**
+- All Monkeys gain +20% range.
+
+**Hard Baked**
+- All attacks do +1 damage to Ceramic Bloons.
+
+**Heartless**
+- Regrow Bloons regenerate at 50% of the normal rate (3s per layer -> 4s per layer).
+
+**Hero Boost**
+- Heroes earn XP 15% faster.
+
+**Magic Monkeys**
+- All 0-0-0 Magic Monkeys cost 8% less.
+- Can only appear in the Relic Store.
+
+**Mana Bulwark**
+- Creates *mana-shield* of 50 lives.
+      - Bloons leaking take out *mana shield* lives instead of real lives
+      - End of round: if no lives were lost that round, *mana shield* gains 5 lives, up to 50
+            - Gains 10 lives with mk
+      - 75 lives with mk
+
+**Marching Boots**
+- Allows use of one extra kind of each tower and 4 extra total towers.
+
+**Military Monkeys**
+- All 0-0-0 Military Monkeys cost 8% less.
+- Can only appear in the Relic Store. 
+
+**MOAB-Clash**
+- All attacks get +2 damage to MOAB-class Bloons.
+
+**MOAB Mine**
+- Grants the use of 1 *MOAB Mine* per game.
+      __MOAB Mine__
+‎ ‎ ‎ ‎ ‎ ‎ - Places *moab-mine* anywhere on the track
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *moab-mine*- 300 damage to the blimp that passes over
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - can affect up to 10 blimps, cannot affect BADs
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - 400 damage with mk
+‎ ‎ ‎ ‎ ‎ ‎ - Can't be used in Time Attack
+
+**Monkey Boost**
+- Grants the use of 3 *Monkey Boost*s per game.
+‎ ‎ ‎ ‎ ‎ ‎ __Monkey Boost__
+‎ ‎ ‎ ‎ ‎ ‎ - All towers on screen get 50%s for 15s
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - 18s with mk
+
+**Monkey Tycoon**
+- All Monkeys cost 4% less to place
+- Allows the use of one extra kind of each tower
+- Can only appear in the Relic Store.
+
+**Primary Primates**
+- All 0-0-0 Primary Monkeys cost 8% less.
+- Can only appear in the Relic Store.
+
+**Regeneration**
+- End of round: if no lives were lost that round, gain 20 lives, up to starting value.
+
+**Restoration**
+- End of round: if no lives were lost that round, gain 10 lives, up to starting value + 200.
+
+**Road Spikes**
+- Grants the use of 10 *Road Spikes* per game.
+‎ ‎ ‎ ‎ ‎ ‎ __Road Spikes__
+‎ ‎ ‎ ‎ ‎ ‎ - Places *red-hot-spikes* anywhere on the track
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *red-hot-spikes*- 1d, 20p, normal, lasts until pierce is used up
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - 21p with mk
+‎ ‎ ‎ ‎ ‎ ‎ - Can't be used in Time Attack
+
+**Rounding Up**
+- Earn +$20 at the end of every round.
+
+**Royal Treatment**
+- All attacks can pop purple Bloons.
+
+**Sharpsplosion**
+- All attacks can pop black Bloons.
+
+**SMS**
+- Grants the use of 2 *Super Monkey Storm*s per game.
+‎ ‎ ‎ ‎ ‎ ‎ __Super Monkey Storm__
+‎ ‎ ‎ ‎ ‎ ‎ - Does 2,000 damage to every Bloon on screen
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - 2,300 damage with mk
+      - Can't be used in Time Attack
+
+**Starting Stash**
+- Start each game with +$250.
+‎ ‎ ‎ ‎ ‎ ‎ - +$450 with mk
+
+**Support Simians**
+- All 0-0-0 Support Monkeys cost 10% less.
+- Can only appear in the Relic Store.
+
+**Tech Bot**
+- Grants the use of 1 *Tech Bot* per game.
+      __Tech Bot__
+      ‎- Choose any tower with an Activated Ability to receive *automated* buff
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *automated* buff: tower's Activated Ability is used immediately when available
+            - Gains *ambush* with mk
+                  - *ambush* - Activated Ability is only used once a bloon reaches the selected zone
+      - Can't be used in Time Attack
+
+**Thrive**
+- Grants the use of 2 *Thrive*s per game
+      __Thrive__
+      - All towers generate 25% more cash from all sources, lasts for 2 rounds
+            - 30% with mk
+      Can't be used in Time Attack
